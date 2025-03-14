@@ -1,0 +1,31 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.popup {
+  background-color: #fff;
+  color: #1a1a1a;
+  max-width: 400px;
+  padding: 1.5rem;
+  border-radius: 0.4rem;
+}
+
+.popup h1 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  color: seagreen;
+  margin-top: 0;
+}
+
+.popup p {
+  font-size: 0.8rem;
+  color: #1a1a1a;
+  opacity: 0.8;
+}
+
+.popup button {
+  background-color: tomato;
+}

@@ -16,6 +16,6 @@ This mini-project demonstrates a basic implementation of pagination. It allows u
 
 - Clone the repository.
 
-- Install npm packagest.
+- Install Dependencies (npm install).
 
 - If using a backend, ensure Node.js is installed and run the server script.
